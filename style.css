@@ -6,7 +6,7 @@ a, a:hover, a:focus, a:active {
 }
 
 body {
-	background-image: url('images/background.jpg');
+	background-image: url('assets/images/background.jpg');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
