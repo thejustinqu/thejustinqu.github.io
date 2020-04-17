@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Taviraj:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
 
 a, a:hover, a:focus, a:active {
 	text-decoration: none;
@@ -6,11 +6,11 @@ a, a:hover, a:focus, a:active {
 }
 
 body {
-		background-image: url('images/background.jpg');
-		background-repeat: no-repeat;
-		background-attachment: fixed;
-		background-size: cover;
-		font-family: 'Taviraj', serif;
+	background-image: url('images/background.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	font-family: 'Manrope', sans-serif;
 }
 
 
@@ -21,7 +21,7 @@ body {
     height: 200px;
 	top: 50%;
     left: 50%;
-	margin: 100px 0 0 -100px;
+	margin: 150px 0 0 -100px;
 }
 
 #headshot img{
@@ -41,33 +41,35 @@ body {
     height: 20px;
 	top: 50%;
     left: 50%;
-	margin: 25px 0 0 -150px;
+	margin: 35px 0 0 -150px;
 }
 
 .namefont1{
-	font-weight: 100;
-	font-size: 20pt;
+	font-weight: 200;
+	font-size: 25pt;
 }
 .namefont2{
-	font-weight: 500;
-	font-size: 20pt;
+	margin: 5px;
+	font-weight: 800;
+	font-size: 25pt;
 }
+
+
 
 
 #education{
 	text-align: center;
 	letter-spacing: 1px;
     position: relative;
-    width: 600px;
+    width: 800px;
     height: 20px;
 	top: 50%;
     left: 50%;
-	margin: 25px 0 0 -300px;
+	margin: 40px 0 0 -400px;
 }
 
 .educationfont1{
-	font-style: italic;
-	font-weight: 200;
+	font-weight: 500;
 	font-size: 13pt;
 }
 .educationfont2{
@@ -75,17 +77,34 @@ body {
 	font-size: 13pt;
 }
 
+#university{
+	text-align: center;
+    position: relative;
+    width: 400px;
+    height: 20px;
+	top: 50%;
+    left: 50%;
+	margin: 20px 0 0 -200px;
+
+	font-weight: 200;
+	font-size: 13pt;
+}
+
 #links{
 	text-align: center;
+	word-spacing: 1em;
 	letter-spacing: 1px;
     position: relative;
     width: 600px;
     height: 20px;
 	top: 50%;
     left: 50%;
-	margin: 25px 0 0 -300px;
+	margin: 45px 0 0 -300px;
 }
 
-
-
+.linksfont1{
+	text-decoration: underline;
+	font-weight: 200;
+	font-size: 10pt;
+}
 
