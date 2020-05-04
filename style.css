@@ -71,11 +71,11 @@ body {
 
 .educationfont1{
 	font-weight: 500;
-	font-size: 13pt;
+	font-size: 14pt;
 }
 .educationfont2{
 	font-weight: 200;
-	font-size: 13pt;
+	font-size: 14pt;
 }
 
 #university{
@@ -88,7 +88,7 @@ body {
 	margin: 20px 0 0 -200px;
 
 	font-weight: 200;
-	font-size: 13pt;
+	font-size: 14pt;
 }
 
 #links{
@@ -108,6 +108,8 @@ body {
 .linkshover:hover {
 	text-decoration:underline;
 }
+
+
 
 
 
